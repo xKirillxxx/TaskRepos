@@ -1,7 +1,6 @@
 using DemosTask.API;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DemosTask.Models;
-using System.Runtime.InteropServices.ComTypes;
 
 namespace DemoTask.Tests
 {
